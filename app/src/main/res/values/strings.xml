@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">mr_timer</string>
+    <string name="timer">timer</string>
+    <string name="start_button">開始</string>
+<!--    <string name="stop_button">一時停止</string>-->
+    <string name="reset_button">リセット</string>
+</resources>
