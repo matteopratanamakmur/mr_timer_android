@@ -18,4 +18,7 @@
         </activity>
     </application>
 
+    <!-- vibrate を許可 -->
+    <uses-permission android:name="android.permission.VIBRATE"/>
+
 </manifest>
